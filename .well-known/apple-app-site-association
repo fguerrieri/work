@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C7M7S427DF.com.fguerrieri.test.extension",
+        "paths": ["/*"]
+      }
+    ]
+  }
+}
